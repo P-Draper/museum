@@ -1,23 +1,37 @@
 import logo from './logo.svg';
 import './App.css';
+import Navbar from './components/Navbar';
+import DisplayArt from './components/DisplayArt';
+import { useEffect, useState } from 'react';
+ 
+
+
+
 
 function App() {
+
+const [arts,setArts]=useState([])
+
+const [featuredArt,setFeaturedArt]=useState({})
+
+function showArt(art){
+  setFeaturedArt(art)
+}
+
+useEffect(()=>{
+  fetch('')
+  .then(response=>response.json())
+  .then(data=>setArts(data))
+},[])
+
   return (
+
     <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+      <h1>ART MUSEUM</h1>
+      <Navbar arts={arts} showArt={showArt} />
+      <DisplayArt featuredArt={featuredArt} />
+
+      
     </div>
   );
 }

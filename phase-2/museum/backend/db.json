@@ -1,5 +1,245 @@
 {
-  "expressionism": [
+  "artworks": [
+    {
+      "title": "Les Demoiselles d'Avignon",
+      "artist": "Pablo Picasso",
+      "year": 1907,
+      "medium": "Oil on canvas",
+      "nationality": "Spanish",
+      "image": "assets/cubism/Les Demoiselles d'Avignon.jpg"
+    },
+    {
+      "title": "Guernica",
+      "artist": "Pablo Picasso",
+      "year": 1937,
+      "medium": "Oil on canvas",
+      "nationality": "Spanish",
+      "image": "assets/cubism/Guernica.jpg"
+    },
+    {
+      "title": "Violin and Candlestick",
+      "artist": "Georges Braque",
+      "year": 1910,
+      "medium": "Oil on canvas",
+      "nationality": "French",
+      "image": "assets/cubism/violin-and-candlestick-1910.jpg"
+    },
+    {
+      "title": "The Portuguese",
+      "artist": "Georges Braque",
+      "year": 1911,
+      "medium": "Oil on canvas",
+      "nationality": "French",
+      "image": "assets/cubism/The Portuguese.jpg"
+    },
+    {
+      "title": "Nude Descending a Staircase, No. 2",
+      "artist": "Marcel Duchamp",
+      "year": 1912,
+      "medium": "Oil on canvas",
+      "nationality": "French",
+      "image": "assets/cubism/nude-descending-a-staircase.jpg"
+    },
+    {
+      "title": "Glass of Absinthe",
+      "artist": "Pablo Picasso",
+      "year": 1914,
+      "medium": "Mixed media",
+      "nationality": "Spanish",
+      "image": "assets/cubism/Glass of Absinthe.jpg"
+    },
+    {
+      "title": "Still Life with Chair Caning",
+      "artist": "Pablo Picasso",
+      "year": 1912,
+      "medium": "Mixed media",
+      "nationality": "Spanish",
+      "image": "assets/cubism/Still Life with Chair Caning.jpg"
+    },
+    {
+      "title": "Woman with a Guitar",
+      "artist": "Georges Braque",
+      "year": 1913,
+      "medium": "Oil on canvas",
+      "nationality": "French",
+      "image": "assets/cubism/Woman-with-a-Guitar.jpg"
+    },
+    {
+      "title": "The Reservoir, Horta de Ebro",
+      "artist": "Juan Gris",
+      "year": 1909,
+      "medium": "Oil on canvas",
+      "nationality": "Spanish",
+      "image": "assets/cubism/Reservoir-at-Horta.jpg"
+    },
+    {
+      "title": "The Weeping Woman",
+      "artist": "Pablo Picasso",
+      "year": 1937,
+      "medium": "Oil on canvas",
+      "nationality": "Spanish",
+      "image": "assets/cubism/the weeping woman.jpg"
+    },
+    {
+      "title": "Mona Lisa",
+      "artist": "Leonardo da Vinci",
+      "year": 1503,
+      "medium": "Oil on panel",
+      "nationality": "Italian",
+      "image": "assets/renaissance/Mona_Lisa.jpg"
+    },
+    {
+      "title": "The Last Supper",
+      "artist": "Leonardo da Vinci",
+      "year": 1498,
+      "medium": "Tempera on gesso, pitch, and mastic",
+      "nationality": "Italian",
+      "image": "assets/renaissance/Young-Leonardo-Last-Supper-Canvas-Painting.jpg"
+    },
+    {
+      "title": "The Birth of Venus",
+      "artist": "Sandro Botticelli",
+      "year": 1484,
+      "medium": "Tempera on canvas",
+      "nationality": "Italian",
+      "image": "assets/renaissance/the-birth-of venus.jpg"
+    },
+    {
+      "title": "The Creation of Adam",
+      "artist": "Michelangelo",
+      "year": 1511,
+      "medium": "Fresco",
+      "nationality": "Italian",
+      "image": "assets/renaissance/Creation_of_Adam_cropped.jpg"
+    },
+    {
+      "title": "The School of Athens",
+      "artist": "Raphael",
+      "year": 1509,
+      "medium": "Fresco",
+      "nationality": "Italian",
+      "image": "assets/renaissance/The-School-of-Athens-Raphael.jpg"
+    },
+    {
+      "title": "David",
+      "artist": "Michelangelo",
+      "year": 1504,
+      "medium": "Marble sculpture",
+      "nationality": "Italian",
+      "image": "assets/renaissance/David.jpg"
+    },
+    {
+      "title": "The Sistine Chapel Ceiling",
+      "artist": "Michelangelo",
+      "year": 1508,
+      "medium": "Fresco",
+      "nationality": "Italian",
+      "image": "assets/renaissance/Sistine_ceiling.jpg"
+    },
+    {
+      "title": "Primavera",
+      "artist": "Sandro Botticelli",
+      "year": 1482,
+      "medium": "Tempera on panel",
+      "nationality": "Italian",
+      "image": "assets/renaissance/Botticelli-primavera.jpg"
+    },
+    {
+      "title": "The Annunciation",
+      "artist": "Leonardo da Vinci",
+      "year": 1472,
+      "medium": "Oil on wood",
+      "nationality": "Italian",
+      "image": "assets/renaissance/Annunciation_(Leonardo).jpg"
+    },
+    {
+      "title": "The Tempest",
+      "artist": "Giorgione",
+      "year": 1508,
+      "medium": "Oil on canvas",
+      "nationality": "Italian",
+      "image": "assets/renaissance/the-tempest-Giorgione.jpg"
+    },
+    {
+      "title": "Impression, Sunrise",
+      "artist": "Claude Monet",
+      "year": 1872,
+      "medium": "Oil on canvas",
+      "nationality": "French",
+      "image": "assets/Impressionism/claude-monet-impression-sunrise.jpg"
+    },
+    {
+      "title": "A Sunday on La Grande Jatte",
+      "artist": "Georges Seurat",
+      "year": 1884,
+      "medium": "Oil on canvas",
+      "nationality": "French",
+      "image": "assets/Impressionism/A_Sunday_on_La_Grande_Jatte,_Georges_Seurat,_1884.jpg"
+    },
+    {
+      "title": "Water Lilies",
+      "artist": "Claude Monet",
+      "year": 1906,
+      "medium": "Oil on canvas",
+      "nationality": "French",
+      "image": "assets/Impressionism/water-lilies-claude-monet.jpg"
+    },
+    {
+      "title": "Dancers in Blue",
+      "artist": "Edgar Degas",
+      "year": 1890,
+      "medium": "Pastel on paper",
+      "nationality": "French",
+      "image": "assets/Impressionism/dancers-in-blue-edgar-degas.jpg"
+    },
+    {
+      "title": "The Starry Night",
+      "artist": "Vincent van Gogh",
+      "year": 1889,
+      "medium": "Oil on canvas",
+      "nationality": "Dutch",
+      "image": "assets/Impressionism/starry-night.jpg"
+    },
+    {
+      "title": "Bal du moulin de la Galette",
+      "artist": "Pierre-Auguste Renoir",
+      "year": 1876,
+      "medium": "Oil on canvas",
+      "nationality": "French",
+      "image": "assets/Impressionism/dance-at-le-moulin.jpg"
+    },
+    {
+      "title": "Woman with a Parasol",
+      "artist": "Claude Monet",
+      "year": 1875,
+      "medium": "Oil on canvas",
+      "nationality": "French",
+      "image": "assets/Impressionism/woman-with-a-parasol.jpg"
+    },
+    {
+      "title": "The Dance Class",
+      "artist": "Edgar Degas",
+      "year": 1873,
+      "medium": "Oil on canvas",
+      "nationality": "French",
+      "image": "assets/Impressionism/the-dance-class.jpg"
+    },
+    {
+      "title": "The Luncheon on the Grass",
+      "artist": "Édouard Manet",
+      "year": 1863,
+      "medium": "Oil on canvas",
+      "nationality": "French",
+      "image": "assets/Impressionism/Luncheon-on-the-Grass-detail_.jpg"
+    },
+    {
+      "title": "Sunflowers",
+      "artist": "Vincent van Gogh",
+      "year": 1888,
+      "medium": "Oil on canvas",
+      "nationality": "Dutch",
+      "image": "assets/Impressionism/sunflowers-van-gogh.jpg"
+    },
     {
       "title": "The Scream",
       "artist": "Edvard Munch",
@@ -76,11 +316,7 @@
       "year": 1897,
       "medium": "Oil on canvas",
       "nationality": "Belgium"
-    }
-  ]
-}
-{
-  "futurism": [
+    },
     {
       "title": "Unique Forms of Continuity in Space",
       "artist": "Umberto Boccioni",
@@ -150,11 +386,7 @@
       "year": 1911,
       "medium": "Oil on canvas",
       "nationality": "Italian"
-    }
-  ]
-}
-{
-  "abstract": [
+    },
     {
       "title": "No. 5, 1948",
       "artist": "Jackson Pollock",
